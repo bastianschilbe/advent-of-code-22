@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code-22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bastianschilbe/advent-of-code-22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bastianschilbe/advent-of-code-22/issues"
+  },
+  "homepage": "https://github.com/bastianschilbe/advent-of-code-22#readme",
+  "dependencies": {
+    "bun-types": "^0.2.2"
+  }
+}
