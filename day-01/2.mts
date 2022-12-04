@@ -8,7 +8,7 @@ for (const calories of text.split(/\n\n/)) {
     .map(Number)
     .reduce((a, b) => a + b, 0));
 }
-allCals.sort((a, b) => a - b).reverse()
+allCals.sort((a, b) => b - a)
 
 const calsOfTopThree = allCals[0] + allCals[1] + allCals[2]
 console.log(calsOfTopThree);
